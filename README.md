@@ -1,11 +1,9 @@
 # C-Animals
-I basic 20 questions style game where the computer tries to guess what animal you are thinking of
+I basic 20 questions style game where the computer tries to guess what animal you are thinking of by using machine learning
 ## What is this?
-This program simulates a game similar to 20 questions where the computer will ask the user a series of yes/no questions to try and figure out what animal the 
-user is thinking of. At the start the only animal the computer knows is dog. So the first question it will ask is "is it a dog?". If the user answered yes then the computer wins.
-However if the user answered no then the computer will ask what animal the user was thinking of and ask for a yes/no question that can differentiate a dog and whatever animal
-the user thought of. The computer will then learn this and store the new questions in a binary tree data structure. The game will continue on and on like this until the user 
-either quits or the computer correctly guesses what animal they were thinking of.
+This program simulates a game similar to 20 questions. Where the computer will ask the user a series of yes/no questions to try and figure out what animal the 
+user is thinking of. At the start, the only animal the computer knows is dog. So the first question it will ask is "is it a dog?". If the user answered yes then the computer wins.
+However if the user answered no then the computer will ask what animal the user was thinking of. It will then ask for a yes/no question that can differentiate a dog and whatever animal the user thought of. The computer will then learn this and store the new questions in a binary tree data structure. The game will continue on and on like this until the user either quits or the computer correctly guesses what animal they were thinking of.
 
 ## Example Output
 
